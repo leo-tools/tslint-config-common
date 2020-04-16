@@ -1,5 +1,7 @@
 # tslint-config-common
 
+![](https://img.shields.io/github/release/leo-tools/tslint-config-common.svg)
+
 Common TSLint shareable config
 
 ## Installation

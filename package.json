@@ -1,0 +1,22 @@
+{
+  "name": "@leo-tools/tslint-config-common",
+  "version": "0.0.1",
+  "description": "A TSLint config for leo-tools JavaScript Style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-tools/tslint-config-common.git"
+  },
+  "keywords": [
+    "tslint",
+    "typescript",
+    "leo",
+    "leo-tools"
+  ],
+  "author": "tc9011",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo-tools/tslint-config-common/issues"
+  },
+  "homepage": "https://github.com/leo-tools/tslint-config-common#readme"
+}

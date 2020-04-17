@@ -1,6 +1,6 @@
 # tslint-config-common
 
-![](https://img.shields.io/github/release/leo-tools/tslint-config-common.svg)
+![](https://img.shields.io/github/release/leo-tools/tslint-config-common.svg)  ![npm](https://img.shields.io/npm/dm/@leo-tools/tslint-config-common)
 
 Common TSLint shareable config
 
